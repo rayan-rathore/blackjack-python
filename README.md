@@ -37,8 +37,8 @@ Beat the dealer to win!
 ---
 🧠 What I Learned
 
-Writing clean and reusable functions
-Handling user input safely
-Implementing game logic step-by-step
-Using constants instead of magic numbers
-Improving code readability and structure
+-Writing clean and reusable functions
+-Handling user input safely
+-Implementing game logic step-by-step
+-Using constants instead of magic numbers
+-Improving code readability and structure
