@@ -30,16 +30,25 @@ conditionals, lists, and game logic.
 
 You are dealt two cards
 Type:
+
 y → to draw another card
+
 n → to pass
+
 Try to get as close to 21 as possible without going over
+
 Beat the dealer to win!
+
 ---
 
 🧠 What I Learned
 
 -Writing clean and reusable functions
+
 -Handling user input safely
+
 -Implementing game logic step-by-step
+
 -Using constants instead of magic numbers
+
 -Improving code readability and structure
